@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Sahani</h1>
 
-<h3 align="center">B.Tech CSE Student | CDS Aspirant | C Programmer</h3>
+<h3 align="center">B.Tech CSE Student | C Programmer</h3>
 
 ---
 
